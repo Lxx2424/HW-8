@@ -1,0 +1,99 @@
+.maneword{
+    border: 1px solid #72c02c;
+    color: #72c02c;
+    background-color: #72c02c;
+    margin: 0 25px;
+    border-radius: 5px;
+    text-align: center
+}
+/*-------------
+Unify start
+---------------*/
+#Unify{
+    background: url(https://htmlstream.com/preview/unify-v2.6/assets/img-temp/1920x1080/img2.jpg);
+    background-position: center;
+    padding: 12rem;
+    background-repeat: no-repeat;
+}
+.UnifyMiddle h1{
+    font-weight: 1000;
+    font-size: 3rem;
+    padding: 1rem
+}
+.UnifyMiddle h2{
+    font-weight: 600;
+    border-width: 2px;
+    font-size: 1.5rem;
+    line-height: 1.4;
+    border-bottom: solid 1px;  
+}
+    .unifyBtn1{
+        background: #fff;
+        color: black;
+        border-radius: 50px;
+        padding-top: 1.07143rem !important;
+        padding-bottom: 1.07143rem !important;
+        margin: 25px;
+    }
+    .unifyBtn2{
+        background: #72c02c;
+        color:whitesmoke;
+        border-radius: 50px;
+        padding-top: 1.07143rem !important;
+        padding-bottom: 1.07143rem !important;
+
+    }
+    .UnifyMiddle{
+        text-align: center;
+        padding: 0 250px;
+
+    }
+/*-------------
+Unify end
+---------------*/
+/*--------
+Findig start
+-----------*/
+#Finding{
+padding: 25px;
+}
+.FindingRight{
+    border-radius: 6px;
+}
+.btnColor{
+    background-color: #72c02c;
+    border: 1px solid #fff;
+    color: whitesmoke;
+    border-radius: 50px;
+}
+.LeftWord{
+    padding: 12rem 0;
+    
+}
+/*--------
+Findig end
+-----------*/
+#WhatCan{
+    background-color: #fafafafa; 
+        
+}
+#Multifanctional{
+    padding: 10rem;
+}
+.MultiLeft{
+    padding: 18rem 0;
+}
+.MultiMiddle{
+    padding: 4rem;
+}
+.MultiRight{
+    padding: 4rem 0;
+}
+#OrtaSekil{
+    padding: 15rem 0;
+}
+.CenterPhoto{
+    background: url("https://i.vimeocdn.com/video/573450806_640.jpg");
+    height: 500px;
+    background-repeat: no-repeat;
+}
